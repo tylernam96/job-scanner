@@ -1,0 +1,227 @@
+[
+ {
+  "id": 416,
+  "label": "excluded",
+  "evidence": "location_field 'North America, Remote'"
+ },
+ {
+  "id": 350,
+  "label": "excluded",
+  "evidence": "Locations limited to Hong Kong; Singapore; Taiwan"
+ },
+ {
+  "id": 36,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty; 'remote roles open in every time zone'; Home based - Worldwide"
+ },
+ {
+  "id": 390,
+  "label": "excluded",
+  "evidence": "'Bangkok, Thailand (*Not open for remote working.)'"
+ },
+ {
+  "id": 323,
+  "label": "excluded",
+  "evidence": "Tel Aviv, Israel; #LI-Onsite"
+ },
+ {
+  "id": 348,
+  "label": "excluded",
+  "evidence": "Locations limited to Hong Kong; Malaysia; Singapore"
+ },
+ {
+  "id": 316,
+  "label": "excluded",
+  "evidence": "Tel Aviv, Israel; 'collaborating with our colleagues in-office'"
+ },
+ {
+  "id": 4,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); 'Location: Fully Remote'"
+ },
+ {
+  "id": 10,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); location Worldwide"
+ },
+ {
+  "id": 15,
+  "label": "excluded",
+  "evidence": "'Based in an English-speaking country' overrides Worldwide listing"
+ },
+ {
+  "id": 406,
+  "label": "excluded",
+  "evidence": "Location 'Remote-North & South America'"
+ },
+ {
+  "id": 404,
+  "label": "excluded",
+  "evidence": "Location limited to Canada, Central America, South America"
+ },
+ {
+  "id": 362,
+  "label": "excluded",
+  "evidence": "Locations limited to Hong Kong; Singapore; Taiwan"
+ },
+ {
+  "id": 40,
+  "label": "confirmed",
+  "evidence": "'work from anywhere in the world'; Himalayas restrictions empty"
+ },
+ {
+  "id": 173,
+  "label": "excluded",
+  "evidence": "Location 'United States'"
+ },
+ {
+  "id": 70,
+  "label": "excluded",
+  "evidence": "'Location - Remote Poland'; 'anywhere in Poland' overrides WWR 'Anywhere in the World'"
+ },
+ {
+  "id": 467,
+  "label": "excluded",
+  "evidence": "Hybrid, in-office 1 day/week Atlanta; must reside within commutable distance"
+ },
+ {
+  "id": 13,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); no contrary statement"
+ },
+ {
+  "id": 17,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); no contrary statement"
+ },
+ {
+  "id": 3,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions include Thailand; fully remote team"
+ },
+ {
+  "id": 29,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); no contrary statement"
+ },
+ {
+  "id": 12,
+  "label": "excluded",
+  "evidence": "'remote experienced Product Analyst in Europe' overrides empty Himalayas list"
+ },
+ {
+  "id": 393,
+  "label": "excluded",
+  "evidence": "Location Chicago/NYC, office-based"
+ },
+ {
+  "id": 273,
+  "label": "excluded",
+  "evidence": "Location 'Remote US'; US Tier locations"
+ },
+ {
+  "id": 38,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); 'Location: Fully Remote'"
+ },
+ {
+  "id": 37,
+  "label": "excluded",
+  "evidence": "'Based in an English-speaking country' overrides Worldwide listing"
+ },
+ {
+  "id": 30,
+  "label": "excluded",
+  "evidence": "'buscamos un Data Engineer... en Latino America'"
+ },
+ {
+  "id": 389,
+  "label": "excluded",
+  "evidence": "Bangkok office; 'candidates based in Bangkok'; not remote"
+ },
+ {
+  "id": 405,
+  "label": "excluded",
+  "evidence": "Location limited to Europe, South America, Central America"
+ },
+ {
+  "id": 74,
+  "label": "excluded",
+  "evidence": "'Headquarters: Remote - USA', 401k; WWR 'Anywhere' tag unreliable"
+ },
+ {
+  "id": 9,
+  "label": "confirmed",
+  "evidence": "'NON-U.S. ONLY' overseas applications; Himalayas restrictions empty"
+ },
+ {
+  "id": 464,
+  "label": "excluded",
+  "evidence": "Location San Francisco; not remote"
+ },
+ {
+  "id": 7,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty; 'core working hours 10am-3pm in your local time zone'"
+ },
+ {
+  "id": 412,
+  "label": "confirmed",
+  "evidence": "'Remote, Global'; 'co-working allowance you can use anywhere in the world'"
+ },
+ {
+  "id": 2,
+  "label": "excluded",
+  "evidence": "'based in Latin America'; 4 hours overlap with US Eastern hours"
+ },
+ {
+  "id": 450,
+  "label": "unknown",
+  "evidence": "'Remote, Remote'; remote-first, no region or timezone stated"
+ },
+ {
+  "id": 322,
+  "label": "excluded",
+  "evidence": "Tel Aviv, Israel; office-based"
+ },
+ {
+  "id": 155,
+  "label": "excluded",
+  "evidence": "'Home Based - Americas'"
+ },
+ {
+  "id": 26,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); Freelance (Contractor)"
+ },
+ {
+  "id": 117,
+  "label": "excluded",
+  "evidence": "'remote role in Americas time zones'"
+ },
+ {
+  "id": 283,
+  "label": "excluded",
+  "evidence": "'hybrid role, 1-2 days in the office' (US cities)"
+ },
+ {
+  "id": 42,
+  "label": "confirmed",
+  "evidence": "Himalayas restrictions empty (worldwide); remote-first"
+ },
+ {
+  "id": 72,
+  "label": "confirmed",
+  "evidence": "WWR 'Anywhere in the World'; 'Headquarters: Remote'; no contrary statement"
+ },
+ {
+  "id": 372,
+  "label": "excluded",
+  "evidence": "'6-month contract based in Bangkok, Thailand'; not remote"
+ },
+ {
+  "id": 455,
+  "label": "excluded",
+  "evidence": "Location Bangalore; not remote"
+ }
+]

@@ -1,0 +1,31 @@
+name: daily-scan
+
+on:
+  schedule:
+    - cron: "0 23 * * *"  # 06:00 Asia/Bangkok
+  workflow_dispatch: {}
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install .
+      # Real profile is git-ignored; it comes from secrets. Without them the fictional example is used.
+      - name: Write profile from secrets
+        env:
+          MASTER_PROFILE_JSON: ${{ secrets.MASTER_PROFILE_JSON }}
+          GAP_STORY_YAML: ${{ secrets.GAP_STORY_YAML }}
+        run: |
+          if [ -n "$MASTER_PROFILE_JSON" ]; then
+            printf '%s' "$MASTER_PROFILE_JSON" > profile/master_profile.json
+            printf '%s' "$GAP_STORY_YAML" > profile/gap_story.yaml
+          fi
+      - run: python -m scanner.run_daily
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

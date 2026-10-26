@@ -1,0 +1,57 @@
+{
+  "_note": "FICTIONAL example profile so the project runs out of the box. Put your real one in profile/master_profile.json (git-ignored).",
+  "status": "approved",
+  "name": "Alex Rivera",
+  "contact": {
+    "email": "alex.rivera@example.com",
+    "phone": null,
+    "linkedin": "https://linkedin.com/in/example",
+    "location": "Thailand (UTC+7)",
+    "portfolio": null,
+    "github": null
+  },
+  "work_setup": {
+    "citizenship": "US",
+    "hire_types": ["contractor", "eor"],
+    "working_hours": ["APAC", "Europe"]
+  },
+  "summary": "Data analyst with 4+ years of experience in e-commerce and healthcare analytics: SQL, Tableau dashboards, A/B testing and revenue reporting, working closely with data engineering on warehouse tables.",
+  "experience": [
+    {
+      "id": "northwind",
+      "company": "Northwind Retail",
+      "title": "Senior Data Analyst",
+      "location": "Remote",
+      "start": "2021-03",
+      "end": "2024-02",
+      "bullets": [
+        {"id": "nw-1", "text": "Built a weekly revenue dashboard in Tableau used by 120 managers across 9 regions", "skills": ["Tableau", "dashboards"], "metrics": ["120 managers", "9 regions"]},
+        {"id": "nw-2", "text": "Designed and analyzed A/B tests on checkout flows, lifting conversion by 2.4%", "skills": ["A/B testing"], "metrics": ["2.4% conversion lift"]},
+        {"id": "nw-3", "text": "Modeled order and customer tables in the warehouse with data engineering, cutting report run time by 60%", "skills": ["data modeling", "SQL"], "metrics": ["60% faster"]},
+        {"id": "nw-4", "text": "Automated monthly KPI reporting with SQL and Python, saving 8 hours per month", "skills": ["SQL", "Python", "ETL"], "metrics": ["8 hours per month"]}
+      ]
+    },
+    {
+      "id": "contoso",
+      "company": "Contoso Health",
+      "title": "Data Analyst",
+      "location": "Austin, TX",
+      "start": "2019-06",
+      "end": "2021-02",
+      "bullets": [
+        {"id": "ch-1", "text": "Analyzed patient appointment no-shows and recommended reminders that reduced no-shows by 11%", "skills": ["data analysis"], "metrics": ["11% fewer no-shows"]},
+        {"id": "ch-2", "text": "Maintained Excel and SQL reporting for 14 clinics and presented findings to leadership", "skills": ["Excel", "SQL", "executive reporting"], "metrics": ["14 clinics"]},
+        {"id": "ch-3", "text": "Cleaned and validated claims data, catching a duplicate-billing issue worth $40,000", "skills": ["data quality"], "metrics": ["$40,000"]}
+      ]
+    }
+  ],
+  "education": [
+    {"school": "State University", "degree": "BS Statistics", "location": "Remote", "start": "2015", "end": "2019"}
+  ],
+  "skills": {
+    "tools": ["SQL", "Tableau", "Python", "Excel", "Snowflake"],
+    "methods": ["A/B testing", "data modeling", "ETL", "dashboards", "executive reporting"],
+    "practices": ["Agile"]
+  },
+  "domains": ["e-commerce", "healthcare"]
+}

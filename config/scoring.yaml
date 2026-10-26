@@ -1,0 +1,43 @@
+# Fit scoring + daily selection (PRD §5.4, §5.5).
+
+# Component maxima; they sum to 100 before multipliers.
+components:
+  skills_match: 40
+  seniority_fit: 20
+  location_tier: 20
+  timezone: 10
+  learning_or_family: 10
+
+location_tier_points:
+  confirmed: 20
+  likely: 12
+  unknown: 5
+  # "excluded" jobs are hidden, never scored.
+
+# Multiplier applied to the final score, by role family (see keywords.yaml).
+role_family_weight:
+  A: 1.0   # Data / BI analyst (primary)
+  B: 0.8   # Junior data engineering / analytics engineering
+  C: 0.6   # Junior / intern software engineering
+  D: 0.6   # Junior / intern data science
+
+# Small additive boosts (points).
+boosts:
+  returnship: 5          # "returnship", "career break welcome", etc.
+  learning_opportunity: 5  # mentorship / training mentioned (families B–D)
+
+selection:
+  daily_count: 10
+  min_score: 55           # never pad the list with jobs below this
+  mix:
+    A_min: 7              # target; filled from A if B–D fall short
+    stretch_max: 3        # combined cap for B, C, D
+  max_posting_age_days: 14
+  repeat_window_days: 60  # same canonical_key / content_hash suppressed this long
+
+models:
+  scoring: claude-haiku-5-5
+  tailoring: claude-sonnet-5-5
+
+budget:
+  monthly_usd_cap: 20     # scoring falls back to rules-only when hit

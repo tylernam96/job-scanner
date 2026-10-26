@@ -1,0 +1,35 @@
+# FICTIONAL example. Your real one goes in profile/gap_story.yaml (git-ignored).
+# Employment-gap narrative (PRD §5.9). Tailoring may rephrase these but must never add facts.
+status: approved
+
+facts:
+  gap_start: 2024-03
+  activities:
+    - Travelled and relocated to Southeast Asia
+    - Built and published side projects
+  motivation_now: Wants to rejoin a team and work on shared goals.
+
+resume:
+  entry:
+    title: Career Break — Independent Projects
+    location: Southeast Asia
+    dates: Mar 2024 – Present
+    bullets:
+      - Relocated to Southeast Asia and built data side projects to keep skills current
+  projects:
+    - name: Job Scanner (Python)
+      url: https://github.com/example/job-scanner
+      bullets:
+        - Daily pipeline that ingests 8 job sources, dedupes postings, and ranks matches; Postgres + GitHub Actions + Streamlit
+  interests: hiking, cooking
+
+cover_letter:
+  default: >
+    After relocating to Southeast Asia in 2024, I took time to travel and build data side projects,
+    which kept my SQL and Python sharp. I'm now ready to bring that energy back to a team.
+  short: >
+    Since 2024 I've been based in Southeast Asia, building data side projects; I'm ready to rejoin a team.
+
+interview_answer: >
+  I relocated to Southeast Asia in 2024 and spent the time travelling and building side projects.
+  I'm now looking to rejoin a team.

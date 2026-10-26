@@ -1,0 +1,84 @@
+# Curated ATS job boards polled daily (PRD §5.1). Slugs verified live 2026-10-23 / 2026-10-26.
+# hires_globally: likely     = publicly known for remote hiring across many countries / contractors
+#                 unverified = remote-friendly, but Thailand eligibility unknown
+# Either way, each posting is still classified individually (PRD §5.3).
+# blocked: true  -> never shown (also set automatically by "Skip: company").
+# Note: Ashby's API rejects Python's default urllib User-Agent; send a custom one.
+
+companies:
+  # --- Greenhouse ---
+  - {name: GitLab,        ats: greenhouse, slug: gitlab,      hires_globally: likely}
+  - {name: Canonical,     ats: greenhouse, slug: canonical,   hires_globally: likely}
+  - {name: Wikimedia,     ats: greenhouse, slug: wikimedia,   hires_globally: likely}
+  - {name: Elastic,       ats: greenhouse, slug: elastic,     hires_globally: likely}
+  - {name: Turing,        ats: greenhouse, slug: turing,      hires_globally: likely}
+  - {name: Grafana Labs,  ats: greenhouse, slug: grafanalabs, hires_globally: unverified}
+  - {name: Mozilla,       ats: greenhouse, slug: mozilla,     hires_globally: unverified}
+  - {name: Fivetran,      ats: greenhouse, slug: fivetran,    hires_globally: unverified}
+  - {name: Mixpanel,      ats: greenhouse, slug: mixpanel,    hires_globally: unverified}
+  - {name: Similarweb,    ats: greenhouse, slug: similarweb,  hires_globally: unverified}
+  - {name: Wise,          ats: greenhouse, slug: wise,        hires_globally: unverified}
+  - {name: Typeform,      ats: greenhouse, slug: typeform,    hires_globally: unverified}
+  - {name: Bitpanda,      ats: greenhouse, slug: bitpanda,    hires_globally: unverified}
+  - {name: Binance,       ats: greenhouse, slug: binance,     hires_globally: unverified}
+  - {name: Agoda,         ats: greenhouse, slug: agoda,       hires_globally: unverified}  # Bangkok HQ; mostly on-site, filter hides those
+  # --- Lever ---
+  - {name: Toptal,        ats: lever, slug: toptal,       hires_globally: likely}
+  - {name: Appen,         ats: lever, slug: appen,        hires_globally: likely}
+  - {name: Metabase,      ats: lever, slug: metabase,     hires_globally: unverified}
+  - {name: Contentsquare, ats: lever, slug: contentsquare, hires_globally: unverified}
+  - {name: Tinybird,      ats: lever, slug: tinybird,     hires_globally: unverified}
+  # --- Ashby ---
+  - {name: PostHog,       ats: ashby, slug: posthog,     hires_globally: likely}
+  - {name: Supabase,      ats: ashby, slug: supabase,    hires_globally: likely}
+  - {name: Oyster,        ats: ashby, slug: oyster,      hires_globally: likely}
+  - {name: Andela,        ats: ashby, slug: andela,      hires_globally: likely}
+  - {name: Close,         ats: ashby, slug: close,       hires_globally: likely}
+  - {name: Hubstaff,      ats: ashby, slug: hubstaff,    hires_globally: likely}
+  - {name: Zapier,        ats: ashby, slug: zapier,      hires_globally: unverified}
+  - {name: n8n,           ats: ashby, slug: n8n,         hires_globally: unverified}
+  - {name: Airbyte,       ats: ashby, slug: airbyte,     hires_globally: unverified}
+  - {name: ClickHouse,    ats: ashby, slug: clickhouse,  hires_globally: unverified}
+  - {name: Hex,           ats: ashby, slug: hex,         hires_globally: unverified}
+  - {name: Prefect,       ats: ashby, slug: prefect,     hires_globally: unverified}
+  - {name: Astronomer,    ats: ashby, slug: astronomer,  hires_globally: unverified}
+  - {name: Cube,          ats: ashby, slug: cube,        hires_globally: unverified}
+  - {name: Amplitude,     ats: ashby, slug: amplitude,   hires_globally: unverified}
+  - {name: FullStory,     ats: ashby, slug: fullstory,   hires_globally: unverified}
+  - {name: Paddle,        ats: ashby, slug: paddle,      hires_globally: unverified}
+  - {name: Miro,          ats: ashby, slug: miro,        hires_globally: unverified}
+  - {name: MotherDuck,    ats: ashby, slug: motherduck,  hires_globally: unverified}
+  - {name: Lightdash,     ats: ashby, slug: lightdash,   hires_globally: unverified}
+  - {name: Hightouch,     ats: ashby, slug: hightouch,   hires_globally: unverified}
+  # --- Added 2026-10-26: APAC / global-remote / contractor-friendly ---
+  - {name: Superside,     ats: lever,      slug: superside,     hires_globally: likely}
+  - {name: Toloka,        ats: greenhouse, slug: toloka,        hires_globally: likely}
+  - {name: Invisible Technologies, ats: greenhouse, slug: invisibletech, hires_globally: likely}
+  - {name: Mercor,        ats: ashby,      slug: mercor,        hires_globally: likely}
+  - {name: Consensys,     ats: greenhouse, slug: consensys,     hires_globally: likely}
+  - {name: DoiT,          ats: greenhouse, slug: doitintl,      hires_globally: unverified}
+  - {name: Airwallex,     ats: ashby,      slug: airwallex,     hires_globally: unverified}  # APAC HQ
+  - {name: Xendit,        ats: greenhouse, slug: xendit,        hires_globally: unverified}  # SE Asia
+  - {name: Ninja Van,     ats: lever,      slug: ninjavan,      hires_globally: unverified}  # SE Asia
+  - {name: Animoca Brands, ats: lever,     slug: animocabrands, hires_globally: unverified}  # APAC
+  - {name: Deputy,        ats: lever,      slug: deputy,        hires_globally: unverified}  # APAC
+  - {name: Culture Amp,   ats: greenhouse, slug: cultureamp,    hires_globally: unverified}  # APAC
+  - {name: Bybit,         ats: greenhouse, slug: bybit,         hires_globally: unverified}
+  - {name: OKX,           ats: greenhouse, slug: okx,           hires_globally: unverified}
+  - {name: Coinbase,      ats: greenhouse, slug: coinbase,      hires_globally: unverified}
+  - {name: Gemini,        ats: greenhouse, slug: gemini,        hires_globally: unverified}
+  - {name: Ledger,        ats: ashby,      slug: ledger,        hires_globally: unverified}
+  - {name: Scale AI,      ats: greenhouse, slug: scaleai,       hires_globally: unverified}
+  - {name: Tailscale,     ats: greenhouse, slug: tailscale,     hires_globally: unverified}
+  - {name: Vercel,        ats: greenhouse, slug: vercel,        hires_globally: unverified}
+  - {name: Netlify,       ats: greenhouse, slug: netlify,       hires_globally: unverified}
+  - {name: PlanetScale,   ats: greenhouse, slug: planetscale,   hires_globally: unverified}
+  - {name: Mattermost,    ats: greenhouse, slug: mattermost,    hires_globally: unverified}
+  - {name: JetBrains,     ats: greenhouse, slug: jetbrains,     hires_globally: unverified}
+  - {name: Sentry,        ats: ashby,      slug: sentry,        hires_globally: unverified}
+  - {name: Render,        ats: ashby,      slug: render,        hires_globally: unverified}
+  - {name: Railway,       ats: ashby,      slug: railway,       hires_globally: unverified}
+  - {name: Neon,          ats: ashby,      slug: neon,          hires_globally: unverified}
+  - {name: ClickUp,       ats: ashby,      slug: clickup,       hires_globally: unverified}
+  - {name: Ghost,         ats: ashby,      slug: ghost,         hires_globally: unverified}
+  - {name: GitBook,       ats: ashby,      slug: gitbook,       hires_globally: unverified}

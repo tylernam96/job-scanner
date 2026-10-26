@@ -1,0 +1,109 @@
+# Rule-based patterns (case-insensitive regex). Stage 1 filter + location tiers.
+# PRD §3 (role families), §5.3 (location), §5.4 (seniority).
+
+role_families:
+  A:  # Data / BI analyst
+    include:
+      - '\bdata analyst\b'
+      - '\b(bi|business intelligence) (analyst|developer|engineer)\b'
+      - '\b(business|product|marketing|growth|revenue|reporting|insights?|operations|commercial|financial) analyst\b'
+      - '\banalytics (analyst|specialist|consultant)\b'
+      - '\btableau (developer|analyst)\b'
+      - '\banalytics engineer\b'   # A when SQL/dbt/BI-heavy; LLM may reassign to B
+      # Broad on purpose (2026-10-26): any analyst title; title_exclude removes non-data analysts.
+      - '\banalyst\b'
+      - '\b(data(?! scien)|analytics|insights?|reporting|bi)\b.*\b(specialist|associate|modell?er|partner|consultant|intern(ship)?)\b'
+      - '\bcustomer insights\b'
+      - '\bdata modell?er\b'
+    exclude_seniority:
+      - '\b(lead|principal|staff|director|head of|vp|manager)\b'
+  B:  # Data engineering stretch
+    include:
+      - '\bdata engineer\b'
+      - '\betl (developer|engineer)\b'
+      - '\banalytics engineer\b'
+    exclude_seniority:
+      - '\b(senior|sr\.?|lead|principal|staff|director|head of|manager)\b'
+  C:  # Software engineering stretch
+    include:
+      - '\b(engineer|developer|programmer)\b'   # any engineering title, but only with a junior marker
+    require_any:
+      - '\b(junior|jr\.?|associate|entry[- ]level|graduate|new grad|early[- ]career|intern(ship)?|apprentice|trainee)\b'
+      - '\b(engineer|developer) i\b'
+    exclude_seniority:
+      - '\b(senior|sr\.?|lead|principal|staff|mid|ii|iii)\b'
+  D:  # Data science stretch
+    include:
+      - '\bdata scien(tist|ce)\b'
+      - '\bmachine learning (engineer|analyst)\b'
+    require_any:
+      - '\b(junior|jr\.?|associate|entry[- ]level|graduate|intern(ship)?|apprentice|trainee)\b'
+    exclude_seniority:
+      - '\b(senior|sr\.?|lead|principal|staff|ii|iii)\b'
+
+title_exclude:
+  - '\b(sales|account executive|recruiter|customer success)\b'
+  # Analyst/data titles that aren't data-analysis work, plus AI-training gig work.
+  - '\b(security|cyber|threat|soc|iam|vulnerability|defen[cs]e|legal|paralegal|compliance|privacy|grc|kyc|aml|crimes?|complaints|case|deal desk)\b'
+  - '\b(speaking|speaker)\b'   # language-desk ops roles
+  - '\b(qa|quality assurance|testing|tester|support|help ?desk|service desk|talent)\b'
+  - '\b(annotat\w*|data (collection|curation|capture|entry))\b'
+
+location:
+  # Two places are checked. The listing's location field is explicit and wins;
+  # the description is only consulted when the field says nothing useful.
+  field:
+    # Region-specific and explicit: trusted outright.
+    confirmed:
+      - '\b(apac|apj|asia[- ]pacific|asia|southeast asia|sea region)\b'
+      - '\bthailand\b'
+      - '\butc ?\+ ?7\b'
+    # Broad tags (often auto-applied by boards): overridden by a restriction in the description.
+    worldwide:
+      - '\b(worldwide|anywhere|global(ly)?|any location|work from anywhere)\b'
+    onsite:
+      - '\b(on[- ]?site|in[- ]office|hybrid)\b'
+    # A field naming only regions that don't include Thailand = residency restriction.
+    restricted_regions:
+      - '\b(us|u\.s\.|usa|united states|america|americas|amer|north america|canada|mexico)\b'
+      - '\b(latam|latin america|latino ?am[eé]rica|south america|brazil|argentina|colombia|chile)\b'
+      - '\b(uk|united kingdom|england|ireland|europe|eu|emea|european union|germany|france|spain|portugal|italy|netherlands|belgium|poland|romania|greece|sweden|denmark|norway|finland|switzerland|austria|czech|hungary|bulgaria|serbia|croatia|ukraine|estonia|lithuania|latvia)\b'
+      - '\b(israel|uae|dubai|saudi|turkey|egypt|nigeria|kenya|south africa|africa|middle east)\b'
+      - '\b(india|pakistan|bangladesh|sri lanka|singapore|philippines|vietnam|indonesia|malaysia|japan|korea|china|hong kong|taiwan|australia|new zealand|anz)\b'
+      - '\b(new york|nyc|san francisco|sf|bay area|seattle|austin|boston|chicago|los angeles|denver|toronto|vancouver|london|berlin|amsterdam|paris|madrid|lisbon|dublin|tel aviv|bangalore|bengaluru|sydney|melbourne|tokyo)\b'
+  description:
+    confirmed:
+      - '\b(work from anywhere(?!\s+in\b)|anywhere in the world|from anywhere(?!\s+in\b)|location[- ]independent)\b'
+      - '\b(hire|hiring|recruit|employ)\w* (globally|worldwide|anywhere(?!\s+in\b)|in any country)\b'
+      - '\bremote[ ,(]*(worldwide|global|anywhere)\b'
+      - '\b(open to|candidates? (in|from)|based in|located in)[^.]{0,40}\b(apac|asia|southeast asia|thailand)\b'
+    likely:
+      - '\b(independent contractor|contractor basis|contract basis|b2b|freelance)\b'
+      - '\b(deel|remote\.com|oyster hr|employer of record|eor)\b'
+      - '\b(apac|apj|asia[- ]pacific|southeast asia|thailand)\b'
+      - '\butc ?\+ ?[5-9]\b'
+      - '\b(cet|cest|gmt|utc|european) ?(time ?zones?|hours|[±+-] ?\d)'   # Europe-hours requirement
+    excluded:
+      - '(?<!non-)(?<!non )(?<!non -)\b(us|u\.s\.|usa|united states|canada|uk|eu|europe|emea|latam)[- ]only\b'
+      - '\bmust (reside|live|be (located|based)) in\b'
+      - '\benglish[- ]speaking countr'
+      - '\b(only|must be) (located|based) in the (us|u\.s\.|united states)\b'
+      - '\bonly (open to|considering|hiring) (candidates|applicants|people)? ?(in|from|located in|based in|residing in)\b'
+      - '\b(reside|residing|located) in (one of )?the following (states|countries)\b'
+      - '\b(pst|pt|est|et|cst|ct|pacific|eastern|central) (time|hours|time ?zone)\b[^.]{0,60}\b(required|must)\b'
+    # NOT an exclusion on its own: US work authorization (the target candidate holds it; see work_setup).
+    not_exclusions:
+      - '\b(authorized|authorization|eligible) to work in the (us|u\.s\.|united states)\b'
+  timezone:
+    good:   # APAC / Europe hours
+      - '\b(apac|asia|cet|cest|gmt|bst|european|utc ?\+ ?[0-9])\b'
+    us_overlap:
+      - '\b(pst|pdt|pt|est|edt|et|cst|ct|pacific|eastern|central|us) (time|hours|time ?zone|business hours)\b'
+      - '\boverlap\b[^.]{0,40}\b(us|pst|est|pacific|eastern)\b'
+
+boosts:
+  returnship:
+    - '\breturnship\b'
+    - '\bcareer (break|returners?|re-?entry)\b'
+  learning_opportunity:
+    - '\b(mentor(ship|ing)?|training program|learn(ing)? (opportunit|on the job)|growth path)\b'

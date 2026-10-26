@@ -1,0 +1,905 @@
+[
+ {
+  "id": 416,
+  "title": "Data Analyst ",
+  "company": "Andela",
+  "sources": [
+   "ashby"
+  ],
+  "location_field": "North America, Remote",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "For over 10 years, Andela has connected its customers with top global, remote technical talent from over 135 countries with the majority residing in emerging markets like Africa and Latin America.",
+   "Join us and change the world.",
+   "- Develop forecasting and predictive models to support strategic planning and resource allocation",
+   "#LI-REMOTE"
+  ]
+ },
+ {
+  "id": 350,
+  "title": "Financial Data Engineer, AI/LLM",
+  "company": "Binance",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Hong Kong; Singapore; Taiwan",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products.",
+   "About Binance\nBinance is the global leading blockchain ecosystem, operating the world's largest digital asset trading platform by volume, serving over 300 million users across 100+ countries and regions.",
+   "Working at Binance\n• Be a part of the world’s leading blockchain ecosystem that continues to grow and offers excellent career development opportunities\n• Work alongside diverse, world-class talent in an environment where learning and growth opportunities are endless\n• Tackle fast-paced, challenging and unique projects\n• Work in a truly global organization, with international teams and a flat organizational structure\n• Competitive salary and benefits\n• Flexible working hours, remote-first, and casual work attire",
+   "Design scalable unified data models and integration frameworks, handling different markets' trading calendars, time zones, currencies, security identifiers, listing relationships, lifecycles, and data corrections, supporting rapid onboarding of new markets and sources.",
+   "Drive data engineering efficiency and technical quality improvements, including metadata, data lineage, automated testing, CI/CD, task orchestration, capacity governance, and AI-assisted development.",
+   "Bonus",
+   "Familiarity with US stock market structure, trading calendars, pre/post-market sessions, corporate actions, and adjustment rules; experience with other stock markets also a plus.",
+   "Thrive in a results-driven workplace with opportunities for career growth and continuous learning",
+   "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+   "We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information.",
+   "If you would like more information about how your data is processed, please contact us."
+  ]
+ },
+ {
+  "id": 36,
+  "title": "Junior Ubuntu Software Engineer",
+  "company": "Canonical",
+  "sources": [
+   "greenhouse",
+   "himalayas"
+  ],
+  "location_field": "Worldwide ; Home based - Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office based roles.",
+   "Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.",
+   "Location : We have remote roles open in every time zone.",
+   "Based on the first round of interviews, we identify specific teams where you might be an excellent fit and conduct second-round interviews with those teams.",
+   "We consider geographical location, experience, and performance in shaping compensation worldwide.",
+   "In addition to base pay, we offer a performance-driven annual bonus.",
+   "Opportunity to travel to new locations to meet colleagues",
+   "Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game."
+  ]
+ },
+ {
+  "id": 390,
+  "title": "Senior BI Analyst (Supply Analytics, Bangkok-based)",
+  "company": "Agoda",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Bangkok, Thailand",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe.",
+   "Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.",
+   "If you’re ready to begin your best journey and help build travel for the world, join us.",
+   "THIS ROLE IS BASED IN BANGKOK, THAILAND (RELOCATION PROVIDED)",
+   "Location of this job: Bangkok, Thailand (*Not open for remote working.)",
+   "Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration.",
+   "In this role, you will work directly with multiple stakeholders, including executive leadership and various cross-functional departments to successfully implement key initiatives.",
+   "Experience in conducting A/B testing experimentation (a plus)",
+   "Experience in Python or R (a plus)",
+   "A good understanding of statistical modelling knowledge or any machine learning technique knowledge is a plus (regression, logistic regression, random forest, etc.",
+   "Extreme comfort in ambiguous, fast-paced environment.",
+   "Employment at Agoda is based solely on a person’s merit and qualifications.",
+   "We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics."
+  ]
+ },
+ {
+  "id": 323,
+  "title": "Product Analyst",
+  "company": "Similarweb",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Tel Aviv, Israel",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Our unique data and solutions empower over 13,000 customers worldwide including Google, eBay, and Adidas — to make game-changing decisions that drive their digital strategies.",
+   "Come join Similarwebbers across the globe who are bright, curious, practical, and genuinely good people.",
+   "#LI-Onsite"
+  ]
+ },
+ {
+  "id": 348,
+  "title": "Data Analyst (12 months contract)",
+  "company": "Binance",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Hong Kong; Malaysia; Singapore",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products.",
+   "1-3 years of full-time work experience in an Analytics role, campaign / growth / marketing analytics experience is a strong plus",
+   "Experience with a visualisation tool such as DataWind, an AI tool such as Claude Code is a strong plus",
+   "Thrive in a results-driven workplace with opportunities for career growth and continuous learning",
+   "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+   "We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information.",
+   "If you would like more information about how your data is processed, please contact us."
+  ]
+ },
+ {
+  "id": 316,
+  "title": "Big Data Engineer",
+  "company": "Similarweb",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Tel Aviv, Israel",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "We're seeking exceptional individuals to join us to our R&D team.",
+   "You will experiment with various technologies in the domain of Machine Learning and big data processing.",
+   "**At Similarweb, collaborating with our colleagues in-office creates a more connected, unified culture.",
+   "We also put a strong emphasis on community, with regular team outings and happy hours.",
+   "Our culture of equality and mutual respect also helps us better understand and serve our customers in a world that is becoming more global, more diverse, and more digital every day."
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Data Analyst",
+  "company": "Emetlab",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Emetlab is an AI data infrastructure company delivering expert-produced, rigorously validated datasets and end-to-end AI solutions to frontier laboratories, Fortune 500 enterprises, ambitious startups, and sovereign AI programmes across the globe.",
+   "Employment Type: Full-Time and Part-Time positions available Location: Fully Remote Stage: Growth stage, operational",
+   "We welcome dedicated individuals regardless of gender, race, ethnicity, national origin, age, disability, religion, sexual orientation, gender identity or expression, or veteran status."
+  ]
+ },
+ {
+  "id": 10,
+  "title": "Middle/Senior Business Intelligence Analyst",
+  "company": "MGID",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Join us and shape the futureof digital advertising!"
+  ]
+ },
+ {
+  "id": 15,
+  "title": "Junior Data Scientist | Remote - Contract",
+  "company": "Xperteez Technology",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Role Type: Contractor",
+   "Location: Remote",
+   "Based in an English-speaking country"
+  ]
+ },
+ {
+  "id": 406,
+  "title": "Analytics Engineer",
+  "company": "Metabase",
+  "sources": [
+   "lever"
+  ],
+  "location_field": "Remote-North & South America, Remote-North & South America, remote",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "That's why people love us.",
+   "- Strong data modeling or integration skills\n- Extremely strong coding skills using SQL (100+ lines of complex SQL queries/models) or Python (1k+ lines of OOP scripts)\n- Fluency in expressing business processes using models and charts\n- 5+ years as an analytics engineer, data analyst, data scientist, data engineer or similar role\n- BS in CS/CE, Math, Economics or equivalent technical degree preferred\n- Experience a plus: B2B SaaS, dbt, Postgres/Redshift, Fivetran, dlt, dimensional modeling, data engineering, data science (machine learning), LLM/AI\n- Candidates who operate in UTC-3 -- UTC-8",
+   "Compensation\nThe US base salary range for this role is $95.4K–$190K annually, plus equity and benefits.",
+   "Compensation is determined by role, level, location, and individual qualifications, including skills, experience, and scope of responsibility.",
+   "Pay may vary by geographic location and other job-related factors.",
+   "Benefits\nWe offer meaningful equity and a comprehensive US benefits package, including fully employer-covered medical, dental, and vision insurance (with 75% coverage for dependents), a 401(k) with employer match available to enroll after the first 30 days, flexible and unlimited paid time off including sick time, and an asynchronous, remote-first environment.",
+   "We're a global team (50% outside the US), fully distributed (from Thailand to California), who get things done asynchronously, with plenty of uninterrupted time, supporting each other to do the best work of our careers.",
+   "based employees."
+  ]
+ },
+ {
+  "id": 404,
+  "title": "Data Analytics Engineer",
+  "company": "Toptal",
+  "sources": [
+   "lever"
+  ],
+  "location_field": "Canada, Central America, South America, Canada, Central America, South America, remote",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce.",
+   "Our Data Analytics Engineers focus on creating a data environment that is conducive to analytics and business decision making.",
+   "This is a remote position.",
+   "We do not offer visa sponsorship or assistance.",
+   "Turn ambiguous business asks into modeled data."
+  ]
+ },
+ {
+  "id": 362,
+  "title": "Senior Data Analyst (AI Compliance)",
+  "company": "Binance",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Hong Kong; Singapore; Taiwan",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products.",
+   "Leading through example: Overseeing high performing, multidisciplinary members of the Data Analyst team, you will design and build complex visualizations and analytical models to help us to meet compliance or regulatory requirements, build several data analytical systems to help business teams improve work efficiency.",
+   "Thrive in a results-driven workplace with opportunities for career growth and continuous learning",
+   "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+   "We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information.",
+   "If you would like more information about how your data is processed, please contact us."
+  ]
+ },
+ {
+  "id": 40,
+  "title": "Junior Full-Stack Developer",
+  "company": "Appetiser Apps",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Join a high-performance team who are striving to go from an Australian market leader to a worldwide phenomenon.",
+   "We need ambitious people like YOU to help us grow by 10X over the next 5 years.",
+   "​​The right fit for this role is DETERMINED, CURIOUS and EAGER TO GROW with :",
+   "BONUS : Experience in Agentic AI",
+   "Exposure to deployment processes or cloud platforms (e.g., AWS, GCP, Azure, or similar) is a plus",
+   "Exposure to testing tools or static typing (e.g., TypeScript) is a bonus",
+   "Flexible Work Arrangements: The ability to work from anywhere in the world as long as you perform.",
+   "Accelerate Your Career: After your probation period, you’ll receive regular performance and salary reviews every 6 months, giving you clear opportunities to advance based on your impact, growth, and contributions.",
+   "Your career progression is merit-based; the more you learn, take initiative, and consistently deliver quality work, the faster you can level up.",
+   "Global Impact: Build products that reach users worldwide and truly make a difference in the world!",
+   "If you want to recommend someone, please email us; an attractive referral bonus awaits!",
+   "If you have any questions, email us at"
+  ]
+ },
+ {
+  "id": 173,
+  "title": "Analytics Engineer, HR Analytics",
+  "company": "Elastic",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "United States",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.",
+   "Demonstrated ability to build custom dashboards and data visualizations using standard BI platforms (e.g., Looker, Tableau) or code-based environments (e.g., Python, Streamlit, Plotly).",
+   "Experience working across geographies and time zones, tailoring insights to diverse audiences.",
+   "A point of view on AI/LLM-based analytics tools and how they simplify insight delivery – direct experience implementing one is a plus.",
+   "Competitive pay based on the work you do here and not your previous salary",
+   "Health coverage for you and your family in many locations",
+   "Ability to craft your calendar with flexible locations and schedules for many roles",
+   "Generous number of vacation days each year",
+   "Up to 40 hours each year to use toward volunteer projects you love",
+   "Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.",
+   "We will reply to your request within 24 business hours of submission.",
+   "and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People's Republic (DNR), The Luhansk People's Republic (LNR), Kherson or Zaporizhzhia).",
+   "If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role."
+  ]
+ },
+ {
+  "id": 70,
+  "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+  "company": "Affirm",
+  "sources": [
+   "weworkremotely"
+  ],
+  "location_field": "Anywhere in the World",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Headquarters: Remote Poland",
+   "We’re looking for a curious, driven professional to join our Revenue Analytics team.",
+   "The ideal candidate combines strong technical and analytical skills with the ability to turn ambiguous business questions into durable, well-tested data infrastructure.",
+   "Contribute to the team’s best practices in version control, code review, documentation, and release hygiene (GitHub-based workflows)",
+   "Ability to start with an ambiguous problem, deconstruct it into tangible steps, and work toward an impactful solution",
+   "Base pay ranges and placement within those ranges are determined based on several factors, including role, experience, and job-related skills.",
+   "Equity Grade - 2 (awarded in US Dollars)",
+   "Location - Remote Poland",
+   "The majority of our roles can be located anywhere in Poland.",
+   "#LI-Remote",
+   "Remote-first with flexibility built in",
+   "Affirm is proud to be a remote-first company.",
+   "Most roles can be done from almost anywhere within the country of employment.",
+   "Some positions may occasionally require in-person work at an Affirm office, and a few are office-based due to the nature of the work.",
+   "Time off to recharge: Flexible time off and generous holiday calendars help you rest when you need to.",
+   "For positions based in San Francisco or Los Angeles: Affirm considers qualified applicants with arrest and conviction records, as required by law.",
+   "To apply: https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics"
+  ]
+ },
+ {
+  "id": 467,
+  "title": "Senior Customer Insights Analyst ",
+  "company": "FullStory",
+  "sources": [
+   "ashby"
+  ],
+  "location_field": "Atlanta, Hybrid",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "This is a hybrid position requiring in-office attendance 1 day per week at our Atlanta office.",
+   "Candidates must reside within a commutable distance to be considered.",
+   "- Deliver scoped enablement engagements to new Fullstory users from our most strategic customers via virtual and/or on-site delivery",
+   "This role is also eligible for a discretionary bonus of up to 10% of base salary, contingent upon Fullstory meeting its performance targets.",
+   "#LI-Hybrid   #LI-BS1",
+   "We’re building something special at Fullstory- and we’re looking for teammates who are curious, collaborative, and driven to make an impact.",
+   "If that resonates, explore our Winning Ways https://www.fullstory.com/about-us/ to see the values that guide how we work and grow together.",
+   "Fullstorians in those cities come to the office at least one day a week to build cross-functional relationships and stay connected.",
+   "Fullstory offers sponsored benefit packages for US-based Fullstorians, and supplemental coverage options for international Fullstorians.",
+   "We provide professional development opportunities through training programs and an annual learning subsidy for US and EMEA-based employees.",
+   "US and EMEA-based Fullstorians receive a monthly productivity stipend."
+  ]
+ },
+ {
+  "id": 13,
+  "title": "Senior Data Analytics Engineer",
+  "company": "Ultimus Fund Solutions",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Microsoft Office Suite.",
+   "Initiative-taking, strategic, and meticulous approaches with a strong commitment to quality, efficiency, and effectiveness.",
+   "Ultimus is an equal opportunity employer and does not discriminate on the basis of the applicant’s or employee’s race, color, religion, national origin, ancestry, gender, sexual orientation, age, disability, veteran or military status, genetic information, citizenship or any other status entitled to protection under federal, state or local anti-discrimination laws."
+  ]
+ },
+ {
+  "id": 17,
+  "title": "Data Scientist Intern",
+  "company": "Avary.ai",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "As a Data Scientist Intern , you will work with real recruiting and interview data and help us improve the intelligence behind Avary’s candidate evaluation and hiring decision-support systems.",
+   "Develop datasets and evaluation pipelines for measuring the quality of LLM-based recruiting systems.",
+   "Comfortable working in a fast-moving startup environment and independently exploring ambiguous problems."
+  ]
+ },
+ {
+  "id": 3,
+  "title": "Data Analyst Intern",
+  "company": "Portcast",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "India, Philippines, Singapore, Thailand, Vietnam",
+  "himalayas_location_restrictions": [
+   "India",
+   "Philippines",
+   "Singapore",
+   "Thailand",
+   "Vietnam"
+  ],
+  "description_location_sentences": [
+   "Portcast is a venture-backed, Singapore-based logistics technology startup building a real-time transportation visibility platform for global supply chains.",
+   "Your focus will be on data integrations and quality, connecting new data sources into our system, checking the data we ingest for gaps and anomalies, and supporting the QA and automation work that keeps our predictions accurate.",
+   "Prior internship experience in a Data Analyst or Business Analyst role, preferably in a product-based, lean startup particularly in logistics, ecommerce or B2B SaaS data-heavy domain.",
+   "Curious by Default: when the data surprises you, you chase the why.",
+   "Fluent in written and verbal English, and comfortable working in a diverse, fully remote team.",
+   "Globally distributed, lean team remote-first flexibility: work with a fully distributed team across Asia and Europe, built on trust, accountability, and collaboration.",
+   "Effectiveness: We focus on analysis that creates real product and customer impact.",
+   "Join us at Portcast and be part of a high-performing team that is shaping the future of the logistics and shipping industry through cutting-edge predictive analytics!"
+  ]
+ },
+ {
+  "id": 29,
+  "title": "Data Engineer w/ Databricks",
+  "company": "Codest Ltd. Company No. 12590542, VAT number: GB363431020",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Our core values lie in “Customers and People First” approach that prioritises the needs of our customers and a collaborative environment for our employees, enabling us to deliver exceptional products and services.",
+   "After many years of developing our own product - Yieldbird, which was honored as a laureate of the prestigious Top25 Deloitte awards, we arrived at our mission: to help tech companies build impactful product and scale their IT teams through boosting IT delivery performance.",
+   "Design scalable data architectures using Unity Catalog, Delta Lake, and Apache Spark",
+   "In the meantime, feel free to visit our website where you can find key facts about us."
+  ]
+ },
+ {
+  "id": 12,
+  "title": "[REMOTE] Product Analyst",
+  "company": "CrazyGames",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "CrazyGames .com, one of the world’s largest casual gaming platforms with over 60M monthly visitors , is looking for a (full or hybrid) remote experienced Product Analyst in Europe.",
+   "You will report to the Chief Product Officer and will work closely with product, data & engineering teams.",
+   "Flexible working hours and location.",
+   "You know how to gather, process and interpret various data sources to support product decisions (analytics, feedback, trends, user tests, ...), and you know SQL very well.",
+   "You like open, efficient, and to-the-point communication and you have experience in working remotely.",
+   "Experience in the Gaming, Media or Entertainment sector is a plus.",
+   "Join us in building the platform enjoyed by 3M+ players every day.",
+   "Help us make strategic product decisions in a data driven way."
+  ]
+ },
+ {
+  "id": 393,
+  "title": "Senior Marketing Analyst (Rocket Travel by Agoda) ",
+  "company": "Agoda",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Chicago/NYC",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe.",
+   "Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.",
+   "If you’re ready to begin your best journey and help build travel for the world, join us.",
+   "We are looking for a dynamic and versatile Marketing Manager who will focus on marketing guidance and support for our white label travel platform partners.",
+   "Regularly monitor platform performance and recommend optimizations based on data findings.",
+   "• Revenue Growth: Strategically focus on maximizing contribution margin and ROI while ensuring partner satisfaction and long-term engagement.",
+   "Basic knowledge of SQL (joins, filters, aggregates) is a must, advanced (window functions, CTEs) is a plus.",
+   "At this time, we’re unfortunately unable to provide support for OPT/CPT student visas or H-1B transfers for this role.",
+   "citizens, permanent residents, or Green Card holders.",
+   "There are a variety of factors that go into determining a salary range, including but not limited to external market benchmark data, geographic location, and years of experience sought/required.",
+   "In addition to a competitive base salary, roles are eligible to be considered for an annual bonus.",
+   "Employment at Agoda is based solely on a person’s merit and qualifications.",
+   "We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics."
+  ]
+ },
+ {
+  "id": 273,
+  "title": "Senior Financial Analyst",
+  "company": "Mozilla",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Remote US ; Remote",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "And we're doing this while never losing our focus on our core mission – to make the internet better for people.",
+   "Mozilla Finance is responsible for strategic resource allocation, overseeing day-to-day financial operations as we scale our mission impact with new and existing products, technology, and business models.",
+   "Generous performance-based bonus plans to all eligible employees - we share in our success as one team",
+   "Generous retirement contributions with 100% immediate vesting (regardless of whether you contribute)",
+   "Country specific holidays plus a day off for your birthday",
+   "One-time home office stipend",
+   "Employee referral bonus program",
+   "- varies by country)",
+   "And you give us a chance to make a difference in your life every single day.",
+   "Join us to work on the Web as the platform and help create more opportunity and innovation for everyone online.",
+   "We encourage applications from everyone, including members of all equity-seeking communities, such as (but certainly not limited to) women, racialized and Indigenous persons, persons with disabilities, persons of all sexual orientation s, gender identities, and expressions.",
+   "Please contact us at hiringaccommodation@mozilla.com to request accommodation.",
+   "We do not discriminate on the basis of race (including hairstyle and texture), religion (including religious grooming and dress practices), gender, gender identity, gender expression, color, national origin, pregnancy, ancestry, domestic partner status, disability, sexual orientation, age, genetic predisposition, medical condition, marital status, citizenship status, military or veteran status, or any other basis covered by applicable laws.",
+   "Mozilla will not tolerate discrimination or harassment based on any of these characteristics or any other unlawful behavior, conduct, or purpose.",
+   "#LI-REMOTE",
+   "US Tier 1 Locations",
+   "US Tier 2 Locations",
+   "US Tier 3 Locations"
+  ]
+ },
+ {
+  "id": 38,
+  "title": "Junior Software Engineer",
+  "company": "Emetlab",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "As a Junior Software Engineer at Emetlab , you will contribute to building the technology infrastructure behind elite AI training data that powers frontier models worldwide.",
+   "Emetlab is an AI data infrastructure company delivering expert-produced, rigorously validated datasets and end-to-end AI solutions to laboratories, Fortune 500 enterprises, ambitious startups, and sovereign AI programmes across the globe.",
+   "You will gain hands-on experience with large-scale data pipelines, quality assurance automation, and the infrastructure that enables over 5,000 domain experts across 120+ countries to produce world-class training data.",
+   "Employment Type: Full-Time and Part-Time positions available Location: Fully Remote Stage: Growth stage, operational",
+   "We welcome dedicated individuals regardless of gender, race, ethnicity, national origin, age, disability, religion, sexual orientation, gender identity or expression, or veteran status."
+  ]
+ },
+ {
+  "id": 37,
+  "title": "Junior Software Engineer | Remote - Contract",
+  "company": "Xperteez Technology",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Role Type: Contractor",
+   "Location: Remote",
+   "Based in an English-speaking country"
+  ]
+ },
+ {
+  "id": 30,
+  "title": "Data Engineer (Snowflake Specialist)",
+  "company": "knowmad mood",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Formado por más de 3.000 personas creativas, digitales e innovadoras conectadas a un propósito y capaces de generar conexiones con personas de todo el mundo.",
+   "Un equipo responsable, flexible y con alta capacidad de adaptación a las necesidades de nuestros clientes y del mercado, a la vez que proporciona valor, visión, creatividad, expertise, profesionalidad y pasión por la tecnología en cada proyecto.",
+   "Dominio de SQL avanzado y capacidad para desarrollar y optimizar consultas complejas sobre múltiples tablas y estructuras de datos.",
+   "¡Recomienda a tus amigos y llévate un extra!"
+  ]
+ },
+ {
+  "id": 389,
+  "title": "Product Operations Analyst",
+  "company": "Agoda",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Bangkok, Thailand",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe.",
+   "Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.",
+   "If you’re ready to begin your best journey and help build travel for the world, join us.",
+   "We are on-look for candidates based in Bangkok.",
+   "Employment at Agoda is based solely on a person’s merit and qualifications.",
+   "We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics."
+  ]
+ },
+ {
+  "id": 405,
+  "title": "Marketing Analyst, New Business and M&A",
+  "company": "Toptal",
+  "sources": [
+   "lever"
+  ],
+  "location_field": "Europe, South America, Central America, Europe, South America, Central America, remote",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce.",
+   "You will track paid advertising performance and translate it into metrics such as LTV and ROAS that inform budget allocation and channel strategy, from structuring the underlying data pipelines to developing the reports that help marketing and business leaders make data-driven decisions.",
+   "This is a remote position.",
+   "We do not offer visa sponsorship or assistance.",
+   "Measure and diagnose paid advertising performance across channels and businesses—analyzing spend efficiency, CAC, funnel conversion, lead value, ROAS, and LTV—to guide budget allocation and channel strategy.",
+   "Help us align and standardize LTV, ROAS, and other metric definitions across the new businesses and the company.",
+   "In the first year, expect to:\nInform significant strategic initiatives, goals, priorities, and performance indicators, including budget allocation and channel strategy for the new businesses.",
+   "3+ years of experience in data analysis, analytics, or business intelligence is required, with a focus on marketing analytics.",
+   "Both a strong background in math, science, finance, engineering, or statistics and deep business insight is required; advanced degrees and/or MBA are a plus.",
+   "Proficiency in SQL; experience with R, Python, or MATLAB is a plus.",
+   "Working knowledge of probability and statistics, experience with process improvement is a plus.",
+   "Experience in a startup, early-stage business, or M&A integration environment is a plus."
+  ]
+ },
+ {
+  "id": 74,
+  "title": "Data Analyst, Clinical Data Effectiveness",
+  "company": "Clover Health",
+  "sources": [
+   "weworkremotely"
+  ],
+  "location_field": "Anywhere in the World",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Headquarters: Remote - USA",
+   "Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and proactively manage chronic disease.",
+   "As we grow our data ecosystem, expanding across legacy interoperability networks, QHIN/TEFCA connectivity, and direct HIE integrations, we need rigorous analytical ownership to ensure the clinical data powering our platform is complete, reliable, and actionable.",
+   "Your analysis will directly shape vendor strategy, facility targeting, and data pipeline investments, thus ensuring that the clinical evidence our care teams depend on is consistently available and trustworthy.",
+   "Background in value-based care, population health, or clinical data operations.",
+   "Based on rigorous analysis of data flow and quality, recommend and guide the implementation of optimal technical configurations for existing data vendors (e.g., Bamboo Health, PCC, Experian, HSX).",
+   "Background in value-based care, population health, or clinical data operations.",
+   "Additionally, we offer a performance-based bonus program, 401k matching, and regular compensation reviews to recognize and reward exceptional contributions.",
+   "Your health matters to us, and we invest in ensuring you have access to quality healthcare.",
+   "To support this, we offer initiatives such as No-Meeting Fridays, monthly company holidays, access to mental health resources, and a generous flexible time-off policy.",
+   "Additionally, we embrace a remote-first culture that supports collaboration and flexibility, allowing our team members to thrive from any location.",
+   "Reimbursement for office setup expenses",
+   "Remote-first culture, enabling collaboration with global teams",
+   "Years later, that vision is a reality, with thousands of practitioners using Counterpart Assistant during patient visits to improve disease management, reduce medical expenses, and drive success in value-based care.",
+   "With an exceptional team of value-based care and technology experts, Counterpart Health is driving value-based care at the speed of software.",
+   "Diversity not only includes race and gender identity, but also age, disability status, veteran status, sexual orientation, religion and many other parts of one’s identity.",
+   "#LI-REMOTE",
+   "To apply: https://weworkremotely.com/remote-jobs/clover-health-data-analyst-clinical-data-effectiveness"
+  ]
+ },
+ {
+  "id": 9,
+  "title": "Product Analyst",
+  "company": "Scentbird",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "The Senior Product Analyst focuses on a quantitative understanding of what users do within Scentbird , based on digital footprints, surveys and experiments.",
+   "Advanced A/B testing experience: designing, running and analyzing complex experiments, including variance reduction, sequential testing, multiple comparisons, sample ratio mismatch checks and heterogeneous treatment effects",
+   "What You’ll Love About Us",
+   "Bonus program",
+   "Remote first",
+   "We strive to uphold an inclusive environment where individuals of all different backgrounds, ages, colors, ethnicities, gender, or gender identities, genetics, physical or mental abilities, protected veteran status, race, religious or sexual orientation, thrive."
+  ]
+ },
+ {
+  "id": 464,
+  "title": "Senior Marketing Analyst",
+  "company": "Amplitude",
+  "sources": [
+   "ashby"
+  ],
+  "location_field": "San Francisco ",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "- Drive analytical projects from end to end: Translate ambiguous business questions into analytical approaches, conduct rigorous analysis, communicate findings clearly, and turn insights into recommendations and action.",
+   "- You are highly analytical and naturally curious, with the ability to dig into complex data, identify meaningful patterns, and connect the dots across multiple sources.",
+   "Experience with Python, R, or similar analytical tools is a plus.",
+   "- Growth Mindset: We’re tenacious in the face of challenges and seek feedback in order to grow ourselves and others.",
+   "- Generous stipends to spend on what matters most to you, whether that’s wellness (monthly), commuter transit/parking (monthly), learning and development (quarterly), new hire home office equipment, and much more",
+   "- Our customers love us!",
+   "We have employees around the world and offices in San Francisco (HQ), New York, Vancouver, Amsterdam, London, Paris, Singapore, and Tokyo.",
+   "All applicants are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation.",
+   "Based on legislation in California, the following details are for individuals who will work for Amplitude in San Francisco Bay Area of California.",
+   "Salary range: $167,000 - $251,000 total target cash (inclusive of bonus or commission)",
+   "- Growth Mindset: We’re tenacious in the face of challenges and seek feedback in order to grow ourselves and others.",
+   "- Generous stipends to spend on what matters most to you, whether that’s wellness (monthly), commuter transit/parking (monthly), learning and development (quarterly), new hire home office equipment, and much more",
+   "- Our customers love us!",
+   "We have employees around the world and offices in San Francisco (HQ), New York, Vancouver, Amsterdam, London, Paris, Singapore, and Tokyo."
+  ]
+ },
+ {
+  "id": 7,
+  "title": "BI Analyst",
+  "company": "Sporty Group",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "You’ll create dashboards that are used on a daily basis by product managers, traders, and executives, as well as provide in-depth reports on various areas of the business with complete freedom on your methodology.",
+   "They are vital in maintaining our ability to deliver accurate and consistent reporting to the various stakeholders.",
+   "Sporty is a remote first company in pursuit of sustainability",
+   "A competitive salary + individual performance based bonuses every quarter",
+   "Our core working hours are 10am-3pm in your local time zone with flexibility outside of this",
+   "Remote video screening with our Talent Acquisition Team",
+   "Remote video interview with Team Members (90 Mins)",
+   "Every application is reviewed by a member of our team (AI is not used in our recruitment process), and we aim to respond within 48 hours."
+  ]
+ },
+ {
+  "id": 412,
+  "title": "FinOps Data Engineer ",
+  "company": "Supabase",
+  "sources": [
+   "ashby"
+  ],
+  "location_field": "Remote, Global",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "- Build and maintain cost attribution: Tagging policies, cost allocation, and chargeback/showback so engineering teams can see and own their own spend.",
+   "- Have data science fundamentals: statistical forecasting, anomaly detection, and experimentation, and know when a rigorous model beats a rule of thumb.",
+   "CloudZero, Vantage, or similar) is a plus, not required.",
+   "- Are energized by doing the unglamorous, high-leverage work (the schlep) that unblocks other teams, and by working cross-functionally without positional authority.",
+   "- Fully Remote",
+   "We believe you can do your best work from anywhere.",
+   "There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.",
+   "Your wellbeing and your family’s health are important to us.",
+   "Supabase was born-remote and open-source-first.",
+   "- 60+ countries"
+  ]
+ },
+ {
+  "id": 2,
+  "title": "1171 - Senior Data Analyst",
+  "company": "GoFasti",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "We Make Remote Work Remarkable • TopTalent from LatAm",
+   "We need an English-fluent Senior Data Analyst , based in Latin America, available to work remotely.",
+   "Turn ambiguous product questions into concrete analyses and clear recommendations",
+   "Fluent English and at least 4 hours of overlap with US Eastern business hours (remote roles)",
+   "It's a plus:",
+   "The talent will work remotely allocated at our client."
+  ]
+ },
+ {
+  "id": 450,
+  "title": "Senior Analytics Engineer",
+  "company": "Prefect",
+  "sources": [
+   "ashby"
+  ],
+  "location_field": "Remote, Remote",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "We’re a remote-first team that values high standards, ownership, and thoughtful collaboration.",
+   "You will report to Gabriel Madureira, our Chief Growth Officer, and work day to day with marketing, sales, RevOps, and product.",
+   "CAC and payback by channel and segment, LTV/CAC, ROI on campaigns and events, self-serve versus sales-assisted.",
+   "- Help us set the go-to-market rhythm.",
+   "- Strong SQL, plus enough Python for the parts SQL is bad at: API pulls, spend data, one-off enrichment.",
+   "- A product-led or self-serve business: activation, trial conversion, PQLs, usage-based revenue.",
+   "Actual base salary within each range depends on the candidate's location, experience, and qualifications.",
+   "Your recruiter can share more about the salary range for your preferred location during the hiring process.",
+   "- Remote-first team with flexible-first culture",
+   "- Generous Parental Leave",
+   "- $800/month remote work stipend",
+   "All applicants will be considered for employment without attention to race, religion, color, sex (including pregnancy, sexual orientation and gender identity/expression), national origin, disability or any other status protected under applicable federal, state, or local laws."
+  ]
+ },
+ {
+  "id": 322,
+  "title": "ML & Big Data Analyst",
+  "company": "Similarweb",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Tel Aviv, Israel",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Come work alongside Similarwebbers across the globe who are bright, curious, practical, and good people.",
+   "As part of this role, you will help us process and streamline rich and complicated datasets.",
+   "We also put a strong emphasis on community, with regular team outings and happy hours.",
+   "We believe our culture of equality and mutual respect also helps us better understand and serve our customers in a world that is becoming more global, more diverse, and more digital every day."
+  ]
+ },
+ {
+  "id": 155,
+  "title": "Software Engineer - Python - Cloud - graduate level",
+  "company": "Canonical",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Home Based - Americas",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles.",
+   "Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.",
+   "This role requires quality-oriented software engineering in Python and a focus on software interoperability over a vast range of target releases and environments.",
+   "Excellent Python skills are a key requirement, with previous contributions to open source Python projects being an advantage.",
+   "This role involves creating and managing Ubuntu images; therefore, experience in configuring apt, and knowledge of deb packaging and general system administration is advantageous in this role.",
+   "You are curious, flexible, articulate, and accountable",
+   "You have interest in and experience with two or more of the following: Ubuntu Linux systems administration, continuous integration, end-system contract management, Debian packaging, working with public or on premise clouds",
+   "Bonus points if you have experience engaging with the open source community",
+   "We consider geographical location, experience, and performance in shaping compensation worldwide.",
+   "In addition to base pay, we offer a performance-driven annual bonus or commission.",
+   "Opportunity to travel to new locations to meet colleagues",
+   "#LI-remote"
+  ]
+ },
+ {
+  "id": 26,
+  "title": "AI Engineer / IA Data Engineer",
+  "company": "Ready",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "Será un plus si cuentas con",
+   "Tipo de contrato: Freelance (Contractor)."
+  ]
+ },
+ {
+  "id": 117,
+  "title": "Financial Analyst",
+  "company": "Canonical",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Home Based - Americas",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Location: This is a remote role in Americas time zones.",
+   "Previous experience in an analytically focused finance or business role",
+   "We consider geographical location, experience, and performance in shaping compensation worldwide.",
+   "In addition to base pay, we offer a performance-driven annual bonus or commission.",
+   "Opportunity to travel to new locations to meet colleagues",
+   "Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.",
+   "#LI-remote"
+  ]
+ },
+ {
+  "id": 283,
+  "title": "Pricing & Order Operations Analyst",
+  "company": "Fivetran",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Denver, Colorado, United States, AMER ; USA - New York ; Oakland, California, United States, AMER ; USA - Austin (dbt)",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "About Us",
+   "It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.",
+   "This role restores dedicated capacity for pricing and order operations testing, quote-to-cash (QTC) release validation, and order execution support.",
+   "This is a hybrid role, 1-2 days in the office.",
+   "Bonus Skills​",
+   "#LI-REMOTE #LI-MM1",
+   "Our compensation ranges are determined by role, level, and location.",
+   "Your recruiter can share more about the specific compensation range for your location during the hiring process.",
+   "Generous paid time away from work, including paid vacation or flexible/unlimited vacation depending on role and country, plus paid sick time, inclusive parental leave, paid holidays, including a year-end Global Week of Rest, and volunteer days off.",
+   "Company virtual happy hours, free food, and fun team-building activities",
+   "* May vary by country and worker type - please reach out to your recruiter for more information",
+   "Read about us in Forbes .",
+   "Fivetran promotes diversity, equity, inclusion & belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities."
+  ]
+ },
+ {
+  "id": 42,
+  "title": "Software Engineer Internship (UNPAID)",
+  "company": "Holiday World",
+  "sources": [
+   "himalayas"
+  ],
+  "location_field": "Worldwide",
+  "himalayas_location_restrictions": [],
+  "description_location_sentences": [
+   "A remote first working environment with an office in Colorado Springs, CO.",
+   "This unpaid internship is designed for software engineers who are passionate about web development and want to enhance their skills in full-stack development, with a focus on TypeScript, Next.js, React.js, Node.js, Tailwind CSS, Framer Motion, MongoDB, PostgreSQL, and microservice architecture.",
+   "Experience in eCommerce development is a plus."
+  ]
+ },
+ {
+  "id": 72,
+  "title": "Business Intelligence Analyst",
+  "company": "Carrot",
+  "sources": [
+   "weworkremotely"
+  ],
+  "location_field": "Anywhere in the World",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Headquarters: Remote",
+   "More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions of members across 195 countries – from pre-pregnancy through menopause and major life moments in between.",
+   "Carrot's comprehensive clinical program delivers industry-leading cost savings for plan sponsors and award-winning experiences and improved outcomes for millions of people worldwide.",
+   "Design and build data models in SQL with a focus on correctness, clarity, and reusability",
+   "Your work directly supports Carrot's mission of expanding access to fertility and family-building care worldwide.",
+   "The opportunity to work alongside passionate, thoughtful teammates committed to improving healthcare outcomes worldwide.",
+   "At Carrot, we believe AI can help us work smarter, move faster, and create more meaningful experiences for our members, customers, and each other.",
+   "While not every role requires deep technical AI expertise, we value people who are curious, eager to learn, and excited to thoughtfully incorporate AI into their day-to-day work.",
+   "To apply: https://weworkremotely.com/remote-jobs/carrot-business-intelligence-analyst"
+  ]
+ },
+ {
+  "id": 372,
+  "title": "Business Intelligence Developer, RTA (Bangkok-based, 6-month Contract)",
+  "company": "Agoda",
+  "sources": [
+   "greenhouse"
+  ],
+  "location_field": "Bangkok",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Today, we are part of Booking Holdings [NASDAQ: BKNG], with a diverse team of over 7,000 people from 90 countries, working together in offices around the globe.",
+   "Every day, we connect people to destinations and experiences, with our great deals across our millions of hotels and holiday properties, flights, and experiences worldwide.",
+   "If you’re ready to begin your best journey and help build travel for the world, join us.",
+   "The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making.",
+   "This role is a 6-month contract based in Bangkok, Thailand, and the candidate who succeeds will be assigned to the projects.",
+   "Contribute to the continuous improvement of team processes, helping to streamline workflows and increase efficiency.",
+   "Willing to adjust working hours, including starting early or finishing late, to participate in meetings across different time zones sometimes.",
+   "*Please note that this position does not offer visa or work permit sponsorship.*",
+   "Employment at Agoda is based solely on a person’s merit and qualifications.",
+   "We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics."
+  ]
+ },
+ {
+  "id": 455,
+  "title": "Senior Data Analyst",
+  "company": "Cube",
+  "sources": [
+   "ashby"
+  ],
+  "location_field": "Bangalore",
+  "himalayas_location_restrictions": null,
+  "description_location_sentences": [
+   "Why us?",
+   "🌱 We believe our future is built by bold, ambitious individuals who are driven to make a real difference.",
+   "🌐 With over 700 CUBERs across 19 countries spanning EMEA, the Americas, and APAC, we operate as one team with a shared mission to transform regulatory compliance.",
+   "ROI & Capacity Models\nQuantify manual effort, automation payback and throughput uplift.",
+   "- Version control discipline: Git-based workflows, code reviews and reproducible analysis"
+  ]
+ }
+]

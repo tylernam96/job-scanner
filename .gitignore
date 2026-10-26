@@ -1,0 +1,13 @@
+# Personal data never goes in git: real profile, resume, local DB.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+resume/
+data/
+profile/master_profile.json
+profile/gap_story.yaml
+.claude/
+*.egg-info/
